@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1779323113 source:d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\main.cpp
+	<iostream>
+	"Monton.hpp"
+
+1779323914 d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\monton.hpp
+	<iostream>
+	<exception>
+	"Monton.tpp"
+
+1779326097 d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\monton.tpp
+
