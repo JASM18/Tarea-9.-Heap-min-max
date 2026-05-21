@@ -56,7 +56,6 @@ Monton<T, Orden> & Monton<T, Orden>::operator=(const Monton &monton)
     if(this == &monton) return *this;
     Vaciar();
 
-    // Si la capacidad propia no alcanza, se ajusta para evitar redimensionar varias veces
     if(capacidad < monton.capacidad){
 
         T *nuevo;
@@ -72,8 +71,7 @@ Monton<T, Orden> & Monton<T, Orden>::operator=(const Monton &monton)
         capacidad = monton.capacidad;
     }
 
-    // Como los datos del origen ya estan en orden de monton, basta con copiarlos tal cual
-    for(int i = 0; i <= monton.ultimo; ++i){
+    for(int i = 0 ; i <= monton.ultimo ; ++i){
         elementos[i] = monton.elementos[i];
     }
 
@@ -168,7 +166,7 @@ void Monton<T, Orden>::Imprimir() const
 
     std::cout << "[ ";
 
-    for(int i = 0; i <= ultimo; ++i){
+    for(int i = 0 ; i <= ultimo ; ++i){
         std::cout << elementos[i] << ", ";
     }
     if(!EstaVacia()) std::cout << "\b\b ]";
@@ -193,7 +191,7 @@ void Monton<T, Orden>::Redimensionar()
         throw MontonNoMemoria();
     }
 
-    for(int i = 0; i <= ultimo; ++i){
+    for(int i = 0 ; i <= ultimo ; ++i){
         nuevo[i] = elementos[i];
     }
 

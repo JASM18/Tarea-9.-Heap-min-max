@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="CapturaSegura.hpp" />
+		<Unit filename="CapturaSegura.tpp" />
 		<Unit filename="Monton.hpp" />
 		<Unit filename="Monton.tpp" />
 		<Unit filename="main.cpp" />

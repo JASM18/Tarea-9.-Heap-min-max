@@ -1,15 +1,17 @@
 # depslib dependency file v1.0
-1779335813 source:d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\main.cpp
+1779342998 source:d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\main.cpp
 	<iostream>
 	"CapturaSegura.hpp"
 	"Monton.hpp"
 
-1779323914 d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\monton.hpp
+1779342843 d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\monton.hpp
+	<iostream>
+	"Monton.hpp"
 	<iostream>
 	<exception>
 	"Monton.tpp"
 
-1779334283 d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\monton.tpp
+1779343141 d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\monton.tpp
 
 1775451497 d:\users\axel\4to semestre\estructura de datos\tareas\tarea 9 - heal (min-max)\capturasegura.hpp
 	"CapturaSegura.tpp"

@@ -46,9 +46,9 @@ int main()
         cout << "Tarea 9. Heap (m\241nimo/m\240ximo)" << endl;
         cout << "==================================" << endl << endl;
 
-        cout << "Modo activo: " << (modoMaximo ? "M\265XIMO" : "M\315NIMO") << endl << endl;
+        cout << "Modo activo: " << (modoMaximo ? "M\265XIMO" : "M\326NIMO") << endl << endl;
 
-        cout << "--- MONT\315CULO ACTUAL ---" << endl;
+        cout << "--- MONT\326CULO ACTUAL ---" << endl;
         if(modoMaximo){
             if(mtMax.EstaVacia()) cout << "El mont\241culo est\240 vac\241o." << endl;
             else{ cout << mtMax; cout << endl; }
