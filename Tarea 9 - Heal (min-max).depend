@@ -18,3 +18,22 @@
 	<iostream>
 	<limits>
 
+1779339055 source:e:\github\tarea-9.-heap-min-max\main.cpp
+	<iostream>
+	"CapturaSegura.hpp"
+	"Monton.hpp"
+
+1779334636 e:\github\tarea-9.-heap-min-max\capturasegura.hpp
+	"CapturaSegura.tpp"
+
+1779334636 e:\github\tarea-9.-heap-min-max\capturasegura.tpp
+	<iostream>
+	<limits>
+
+1779338655 e:\github\tarea-9.-heap-min-max\monton.hpp
+	<iostream>
+	<exception>
+	"Monton.tpp"
+
+1779334636 e:\github\tarea-9.-heap-min-max\monton.tpp
+

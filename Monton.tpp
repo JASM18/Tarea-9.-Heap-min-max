@@ -1,3 +1,11 @@
+/**
+ * \file Monton.tpp
+ * \brief Este archivo contiene la implementaci&oacute;n de los m&eacute;todos de la plantilla de clase Monton.
+ * \author S&aacute;nchez Montoy, Jes&uacute;s Axel
+ * \author Portugal Arreola, Marian Bethsab&eacute;
+ * \date 19/05/2026
+ */
+
 //***********************************************
 // CONSTRUCTORES
 //***********************************************
